@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm Abhijit Kar Bappi
 
-<!--
-**devbybappi/devbybappi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering student at North East University Bangladesh.
 
-Here are some ideas to get you started:
+💻 Passionate about software development, backend engineering, and cybersecurity. I enjoy turning ideas into practical projects, solving problems through code, and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently expanding my skills in Python, backend development, and modern software engineering practices.
+
+⚡ Interests: Programming • Cybersecurity • Technology • Open Source • Reading • Cooking
+
+🚀 My goal is to become a skilled backend engineer and contribute to impactful projects that make a difference.
+
+*"Every expert was once a beginner who refused to give up."*
