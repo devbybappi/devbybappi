@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Abhijit Kar Bappi
+# Hi there 👋, I'm Bappi
 
 🎓 Computer Science & Engineering student at North East University Bangladesh.
 
